@@ -5,7 +5,7 @@ This is a very simple arduino board based temperature sensor and display for an 
 
 This project uses the follow components
 
--Wemos D1 mini
--DHT11(used only for humidity sensor)
--3 DS18B20 waterproof one wire temperature sensors
--SSD1306 OLED LCD monitor for display
+-Wemos D1 mini  
+-DHT11(used only for humidity sensor)  
+-3 DS18B20 waterproof one wire temperature sensors  
+-SSD1306 OLED LCD monitor for display  
