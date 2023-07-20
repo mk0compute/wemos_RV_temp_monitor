@@ -9,3 +9,7 @@ This project uses the follow components
 -DHT11(used only for humidity sensor)  
 -3 DS18B20 waterproof one wire temperature sensors  
 -SSD1306 OLED LCD monitor for display  
+
+
+Future goals
+-Send data via serial to a raspberry PI onboard the RV and publish it to a MQTT broker to integrate with a IoT platform(home assistant)
